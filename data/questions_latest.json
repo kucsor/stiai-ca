@@ -1,0 +1,313 @@
+{
+  "generated_at": "2026-05-06T19:50:46.445023",
+  "total_questions": 51,
+  "questions": [
+    {
+      "id": 1,
+      "question": "De ce este sângele roșu?",
+      "category": "Corp Uman",
+      "answer": "**Sângele este roșu pentru că are hemoglobină**, o substanță specială care caută oxigen. Când oxigenul atinge hemoglobina, ea devine roșie - ca un steag care spune \"Am găsit oxigen!\"\n\n**Analogie:** Gândește-te la sânge ca la un camion de livrare. Când transportă pachete de oxigen, este roșu. Când livrează și se întoarce gol, roșu devine mai închis."
+    },
+    {
+      "id": 2,
+      "question": "De ce avem vise?",
+      "category": "Somn si Vis",
+      "answer": "**Visele sunt filme pe care creierul le proiectează când dormim.** Creierul procesează amintirile din zi și gestionează emoții.\n\n**Analogie:** Creierul e ca o bibliotecă. Când dormi, bibliotecarul organizează cărțile. Uneori vede scene amuzante - și acelea sunt visele tale!"
+    },
+    {
+      "id": 3,
+      "question": "De ce este cerul albastru?",
+      "category": "Natura si Univers",
+      "answer": "**Lumina Soarelui lovește aerul și se împrăștie.** Lumina conține toate culorile curcubeului, dar albastrul se împrăștie mai mult în toate direcțiile.\n\n**La răsărit/apus:** Soarele e aproape de orizont, lumina trece prin mai mult aer, albastrul dispare, rămâne roșul!"
+    },
+    {
+      "id": 4,
+      "question": "Cum respirăm fără să ne gândim?",
+      "category": "Corp Uman",
+      "answer": "**Respirația este automată!** Creierul are senzori care verifică dioxidul de carbon. Când e prea mult, spune mușchilor pieptului: \"Respirați!\"\n\n**Analogie:** E ca un sistem de aer condiționat care se activează singur când aerul devine \"murdar\"."
+    },
+    {
+      "id": 5,
+      "question": "De ce dormim?",
+      "category": "Somn si Vis",
+      "answer": "**Dormim pentru ca corpul și creierul să se reface.**\n\n**Ce facem când dormim:**\n- Reorganizăm amintirile\n- Reparăm mușchii\n- Resetăm energia (ca telefonul care se încarcă)\n- Eliminăm \"gunoiul\" din creier\n\n**Analogie:** Somnul e ca service-ul mașinii - fără el, se strică!"
+    },
+    {
+      "id": 6,
+      "question": "De ce frunzele sunt verzi?",
+      "category": "Natura si Univers",
+      "answer": "**Frunzele au clorofilă**, o substanță care le ajută să fabrice hrana din lumina Soarelui.\n\n**Cum funcționează:** Clorofila absoarbe toată lumina, dar nu verdele. Verdele se întoarce la ochii noștri!\n\n**Analogie:** Clorofila e bucătarul care folosește lumina Soarelui ca ingredient!"
+    },
+    {
+      "id": 7,
+      "question": "Cum funcționează internetul?",
+      "category": "Tehnologie",
+      "answer": "**Internetul e ca o poștală gigantică!** Computerele sunt conectate prin cabluri. Informația e împărțită în pachete care merg pe diferite căi.\n\n**Analogie:** E ca o rețea de drumuri. Computerele sunt casele, informația e mașinile care merg de la o casă la alta."
+    },
+    {
+      "id": 8,
+      "question": "Ce este electricitatea?",
+      "category": "Tehnologie",
+      "answer": "**Electricitatea e un râu de particule mici (electroni) care curg prin cabluri** și duc energie.\n\n**Analogie:** E ca apa din robinet. Când desfaci robinetul, apa curge. Electronii fac la fel prin cabluri!\n\n**La lampă:** Electronii lovesc un filament care devine fierbinte și luminează."
+    },
+    {
+      "id": 9,
+      "question": "De ce este apa lichidă?",
+      "category": "Natura si Univers",
+      "answer": "**Moleculele de apă sunt suficient de \"slabe\" ca să se miște, dar și \"întâlnite\" să rămână unite.**\n\n**Cele 3 stări:**\n- Solidă (gheață): moleculele sunt înghețate\n- Lichidă (apă): moleculele se mișcă liber\n- Gazoasă (abur): moleculele zboară liber\n\n**Analogie:** Ca copiii într-o sală de joacă - stau pe loc, se mișcă, sau fug afară!"
+    },
+    {
+      "id": 10,
+      "question": "Cum funcționează un frigider?",
+      "category": "Tehnologie",
+      "answer": "**Un frigider nu \"crează\" frig - îi ia căldura mâncării și o duce afară!**\n\n**Cum funcționează:**\n1. Gazul special (freon) absoarbe căldura din mâncare\n2. Motorul comprimă gazul și îl face fierbinte\n3. Gazul cedează căldura în exterior (spatele frigiderului)\n4. Procesul începe din nou\n\n**Analogie:** E ca un om care poartă o geacă în iarnă - doar că frigiderul scoate căldura afară!"
+    },
+    {
+      "id": 11,
+      "question": "De ce plouă?",
+      "category": "Natura si Univers",
+      "answer": "**Ploaia e apa care se întoarce pe Pământ după ce a plecat în nori.**\n\n**Cum funcționează:**\n1. Soarele încălzește apa → se evapora\n2. Vapori se răcesc → se transformă în picături\n3. Picăturile se unesc → devin grele\n4. Cad în jos → ploaie!\n\n**Analogie:** Ca un joc \"pești în apă\" - Norii sunt coșul unde se adună peștii, când e prea mult, unii cad înapoi!"
+    },
+    {
+      "id": 12,
+      "question": "De ce suntem pe Pământ și nu zburăm în spațiu?",
+      "category": "Natura si Univers",
+      "answer": "**Există o forță magică care ne atrage: GRAVITAȚIA!**\n\n**Cum funcționează:**\n- Toate obiectele cu masă se atrag\n- Pământul e foarte mare → atrage mai puternic\n- Te ține lipit de sol\n\n**Analogie:** Pământul e ca un magnet uriaș, tu ești un cui mic. Magnetul nu te lasă să pleci!\n\n**De ce astronauții zboară:** Sunt departe de Pământ, gravitația e mai slabă."
+    },
+    {
+      "id": 13,
+      "question": "De ce vedem culorile?",
+      "category": "Corp Uman",
+      "answer": "**Ochii au celule speciale care detectează lumina, creierul le transformă în culori.**\n\n**Cum funcționează:**\n- Lumina lovește obiectele și se reflectă\n- Ochii prind lumina reflectată\n- Retina are 3 tipuri de celule (roșu, verde, albastru)\n- Creierul combină și vede toate culorile!\n\n**Analogie:** Ochii sunt ca o paletă de pictor cu 3 culori de bază. Le combini și vedeți orice culoare!"
+    },
+    {
+      "id": 14,
+      "question": "Ce este un computer?",
+      "category": "Tehnologie",
+      "answer": "**Un computer e un robot rapid care poate face calcule, stoca amintiri și executa ordine!**\n\n**Ce poate face:**\n- Calculează milioane de operații/secundă\n- Stochează milioane de lucruri\n- Execută exact ce îi spui\n- Se conectează la alți computere\n\n**Analogie:** E ca un asistent foarte inteligent care face ce îi spui, foarte repede, și îți reamintește tot ce ai făcut!"
+    },
+    {
+      "id": 15,
+      "question": "De ce ne înghețăm de frică?",
+      "category": "Corp Uman",
+      "answer": "**Când ne este frică, corpul se pregătește să fugă. Sângele merge la mușchi, nu la piele!**\n\n**Ce se întâmplă:**\n- Creierul detectează pericol\n- Adrenalina se eliberează\n- Sângele pleacă de la piele → merg la mușchi\n- Te simți rece pentru că sângele nu e la suprafață\n\n**Analogie:** Corpul e ca o casă în urgență. Managerul spune \"Fugi!\" Sângele e echipa de salvare care merge unde e nevoie."
+    },
+    {
+      "id": 16,
+      "question": "De ce au stele lumina proprie?",
+      "category": "Natura si Univers",
+      "answer": "**Stelele sunt foarte fierbinți! În interior se întâmplă explozii care produc lumină.**\n\n**Cum funcționează:**\n- Stelele sunt globoși de hidrogen și heliu\n- În centru: 15 milioane grade Celsius!\n- Atomii de hidrogen se unesc → devin heliu (fuziune)\n- Eliberează energie → lumină și căldură\n\n**Analogie:** Stelele sunt ca niște cuptoare uriașe. Lumina e \"fumul\" acestui foc!\n\n**Soarele:** 150 milioane km, 8 minute lumină!"
+    },
+    {
+      "id": 17,
+      "question": "Cum digestăm mâncarea?",
+      "category": "Corp Uman",
+      "answer": "**Digestia e o fabrică de prelucrare a mâncării!**\n\n**Căile:**\n1. Gura - Mestecăm + salivă\n2. Esophagul - Tobogan către stomac\n3. Stomacul - Blender cu sucuri digestive\n4. Intestin subțire - Nutrienții merg în sânge\n5. Intestin gros - Apa e absorbită\n6. Eliminare - Resturile pleacă\n\n**Analogie:** E ca o filieră de cafea. Sucurile digestive sunt apa fierbinte, intestinul e filtrul!"
+    },
+    {
+      "id": 18,
+      "question": "De ce se învârtim în jurul Soarelui?",
+      "category": "Natura si Univers",
+      "answer": "**Gravitația Soarelui ne trage, dar avem viteză care ne împiedică să cadem în Soare!**\n\n**Cum funcționează:**\n- Gravitația vrea să mergem direct către Soare\n- Dar avem viteză laterală (107.000 km/h!)\n- Cădem continuu, dar nu ajungem - orbităm\n\n**Vară/Iarnă:** Pământul e înclinat 23.5 grade. Când ești orientat spre Soare → vară. Orientat departe → iarnă.\n\n**Analogie:** E ca un satelit prins de un cablu, dar are viteză să nu cadă!"
+    },
+    {
+      "id": 19,
+      "question": "Ce este un virus informatic?",
+      "category": "Tehnologie",
+      "answer": "**Un virus informatic e ca un ger care se infectează pe computer și îl face să se simtă rău!**\n\n**Cum funcționează:**\n1. Se ascunde într-un fișier\n2. Când deschizi, virusul intră\n3. Se replicate în alte fișiere\n4. Face daune (șterge, fura, blochează)\n\n**Analogie:** Ca un virus uman - se ascunde, te face să te simți rău, se transmite de la o persoană la alta.\n\n**Cum te protejezi:** Antivirus (vaccinare), actualizări, fii atent la site-uri necunoscute!"
+    },
+    {
+      "id": 20,
+      "question": "De ce este noaptea întunecată?",
+      "category": "Natura si Univers",
+      "answer": "**Partea ta a Pământului e întoarsă departe de Soare, deci nu primești lumina lui!**\n\n**Cum funcționează:**\n- Pământul se învârte pe axă (24 ore)\n- O parte e luminoasă (ziua)\n- Cealaltă e întunecată (noaptea)\n- După 12 ore, se schimbă\n\n**Analogie:** Un bec în mijlocul camerei. Ești lângă bec → lumină. Te întorci cu spatele → întuneric.\n\n**De ce răsare/apune:** Nu Soarele se mișcă, noi ne învârtim! Când te întorci spre Soare → răsărit. Întoarcă-te departe → apus!"
+    },
+    {
+      "id": 21,
+      "question": "De ce se invarte Pamantul in jurul axei sale?",
+      "category": "Natura si Univers",
+      "answer": "Pamantul se invarte pentru ca asa s-a format acum 4.5 miliarde de ani, cand norul de praf si gaz din care s-a nascut Sistemul Solar avea deja o miscare de rotatie. E ca un patinator care se invarte - cand isi strange bratele, se invarte mai repede. Pamantul nostru s-a format dintr-un disc rotitor de materie si a pastrat acea rotatie pana azi.\n\n**Pentru copii:** Imagineaza-ti ca esti pe un carusel care se invarte de miliarde de ani si nu se opreste niciodata!\n\n**Pentru adulti:** Pamantul se invarte cu aproximativ 1.670 km/h la ecuator. O rotatie completa dureaza 23 de ore, 56 de minute si 4 secunde (o zi siderala)."
+    },
+    {
+      "id": 22,
+      "question": "Cum vorbesc albinele intre ele?",
+      "category": "Natura si Univers",
+      "answer": "Albinele danseaza pentru a comunica! Cand o albina gaseste flori cu polen, se intoarce la stup si executa un dans special numit \"dansul codatului\" sau \"dansul circular\". Prin miscarile corpului, albina le arata celorlalte exact unde sunt florile: fata de soare, cat de departe si cat de multe flori sunt.\n\n**Pentru copii:** Albinele sunt ca niste dansatori care spun povesti cu piciorusele lor!\n\n**Pentru adulti:** Karl von Frisch a primit Premiul Nobel in 1973 pentru descoperirea limbajului dansului albinelor. Dansul in forma de 8 indica distanta, iar unghiul fata de soare indica directia."
+    },
+    {
+      "id": 23,
+      "question": "De ce nu cade Luna pe Pamant?",
+      "category": "Natura si Univers",
+      "answer": "Luna cade CONSTANT catre Pamant - dar din fericire, o rateaza mereu! Luna are o viteza laterala uriasa (aproximativ 3.700 km/h) care o poarta in jurul Pamantului. Gravitatia Pamantului o trage incontinuu spre noi, dar viteza ei laterala o face sa 'cada' in jurul nostru, pe o orbita aproape circulara.\n\n**Pentru copii:** E ca si cum ai incerca sa prinzi o minge care fuge foarte repede in lateral - nu o poti prinde niciodata!\n\n**Pentru adulti:** Aceasta este o cadere libera continua. Daca Luna s-ar opri din orbitat, ar cadea direct pe Pamant in aproximativ 4,6 zile. Distanta medie Pamant-Luna este de 384.400 km."
+    },
+    {
+      "id": 24,
+      "question": "Cum functioneaza un caleidoscop?",
+      "category": "Tehnologie",
+      "answer": "In interiorul unui caleidoscop sunt oglinzi asezate in unghi, care reflecta bucatele colorate de sticla sau plastic de nenumarate ori. Cand privesti printr-un capat si invarti tubul, bucatelele se misca si oglinzile creeaza modele simetrice frumoase prin reflexii multiple.\n\n**Pentru copii:** E ca o casa a oglinzilor pentru jucarii mici si colorate!\n\n**Pentru adulti:** Caleidoscopul a fost inventat de Sir David Brewster in 1816. Oglinzile sunt de obicei asezate la 45 sau 60 de grade, creand 8 sau 6 imagini simetrice. Cuvantul vine din grecescul 'kalos' (frumos), 'eidos' (forma) si 'skopein' (a privi)."
+    },
+    {
+      "id": 25,
+      "question": "De ce avem degete diferite ca marime?",
+      "category": "Corp Uman",
+      "answer": "Degetele noastre au marimi diferite pentru a ne permite sa apucam, sa scriem, sa construim si sa interactionam cu lumea in moduri eficiente. Degetul mare este scurt si opozabil (se poate atinge de celelalte degete) - aceasta este caracteristica care ne-a permis sa dezvoltam unelte si tehnologie. Aratatorul este mai lung pentru precizie, iar inelarul si mignele ajuta la echilibru.\n\n**Pentru copii:** Fiecare deget are o slujba diferita! Degetul mare strange, aratatorul arata, iar celelalte ajuta la echilibrat.\n\n**Pentru adulti:** Opozabilitatea degetului mare este unul dintre factorii cheie care a permis evolutia umana. Fara degete de marimi diferite, nu am putea tine un creion sau folosi un ciocan."
+    },
+    {
+      "id": 26,
+      "question": "Cum zboara pasarile fara sa cada?",
+      "category": "Natura si Univers",
+      "answer": "Pasarile zboara datorita formei speciale a aripilor lor. Aripa este curbata deasupra si plata dedesubt. Cand aerul curge peste aripa, calatoreste mai repede pe partea curbata, creand o zona de presiune mai mica deasupra. Presiunea mai mare de dedesubt impinge aripa in sus - asta se numeste 'portanta'. Pasarile mai bat din aripi pentru a se impinge inainte si in sus.\n\n**Pentru copii:** Aripa pasarii e ca o mana care taie aerul si il impinge in jos, iar aerul impinge pasarea in sus!\n\n**Pentru adulti:** Acest principiu se numeste efect Bernoulli si se aplica si avioanelor. Vulturii pot plana ore intregi fara sa bata din aripi, folosind curenti ascendenti de aer cald (termale)."
+    },
+    {
+      "id": 27,
+      "question": "De ce sunt ouale de gaina ovale?",
+      "category": "Natura si Univers",
+      "answer": "Forma ovala a oualelor nu este intamplatoare. Ea ofera mai multe avantaje: distributia uniforma a presiunii (poti strange un ou in palma fara sa-l spargi), stabilitate (oua nu se rostogolesc usor - se invart in cerc), si eficienta la clocire (se incalzesc uniform sub corpul gainii).\n\n**Pentru copii:** Oul este ca un arc mic si tare care nu se sparge usor pentru ca forma lui imparte forta in toate partile!\n\n**Pentru adulti:** Forma ovala este un compromis evolutiv intre: rezistenta structurala, dimensiune optima pentru canalul de nastere, si eficienta termica. Ouale de pasari care cuibaresc pe stanci sunt mai ascutite pentru a nu se rostogoli in prapastie."
+    },
+    {
+      "id": 28,
+      "question": "Cum functioneaza un termometru?",
+      "category": "Tehnologie",
+      "answer": "Un termometru functioneaza pe principiul ca lichidele se dilata (se largeste) cand se incalzesc si se contracta (se micsoreaza) cand se racesc. Intr-un termometru clasic, lichidul (mercur sau alcool colorat) este inchis intr-un tub subtire. Cand temperatura creste, lichidul se largeste si urca in tub; cand scade, coboara. Scarile de masurare (Celsius, Fahrenheit) sunt calibrate pe baza punctelor de inghet si fierbere ale apei.\n\n**Pentru copii:** E ca un balon magic care creste cand e cald si se micsoreaza cand e frig!\n\n**Pentru adulti:** Termometrul cu mercur a fost inventat de Daniel Fahrenheit in 1714. Termometrele digitale moderne folosesc termistori sau termocupluri care masoara rezistenta electrica sau tensiunea pentru a calcula temperatura."
+    },
+    {
+      "id": 29,
+      "question": "De ce radem cand ne gadila?",
+      "category": "Corp Uman",
+      "answer": "Rasul la gadi latura este un reflex involuntar al corpului, nu o reactie constienta. Creierul nostru are zone care detecteaza atingerea usoara si neasteptata. Gadilatul activeaza atat zona de placere, cat si zona de aparare. Specialistii cred ca rasul la gadilat este un mecanism evolutionar care ne invata sa ne protejam partile vulnerabile (coastele, gatul, talpile). Interesant: nu te poti gadila singur pentru ca creierul tau stie dinainte ce urmeaza si anuleaza reactia.\n\n**Pentru copii:** Creierul tau e ca un paznic care rade cand simte ceva neasteptat, dar daca stie dinainte, nu mai rade!\n\n**Pentru adulti:** Cercetarile arata ca gadilatul activeaza cortexul somatosenzorial si hipotalamusul. In secolul al XIX-lea, gadilatul era folosit in mod gresit ca metoda de diagnostic pentru anumite afectiuni."
+    },
+    {
+      "id": 30,
+      "question": "Cum se face ceasul?",
+      "category": "Tehnologie",
+      "answer": "Un ceas masoara trecerea timpului folosind un oscilator - ceva care se misca regulat. La ceasurile mecanice, un arc spiralat sau un pendul oscileaza cu o frecventa constanta, iar roti dintate transmit miscarea la ace. La ceasurile cu quart, un cristal de quart vibreaza de 32.768 de ori pe secunda cand este alimentat de o baterie. Un circuit masoara vibratiile si le transforma in secunde.\n\n**Pentru copii:** Ceasul e ca o inima care bate la fel de repede tot timpul, iar acele sunt ca maini care numara baterile!\n\n**Pentru adulti:** Ceasurile atomice, cele mai precise, folosesc vibratiile atomilor de cesiu pentru a masura timpul. Precizia lor este de o secunda la 100 de milioane de ani. Primul ceas mecanic a fost inventat in secolul al XIII-lea."
+    },
+    {
+      "id": 31,
+      "question": "De ce este pamantul maro?",
+      "category": "Natura si Univers",
+      "answer": "Pamantul (solul) este maro din cauza descompunerii materialelor organice - frunze moarte, plante, animale - care se transforma in humus. Humusul contine carbon si da solului culoarea inchisa. De asemenea, mineralele din sol (fier, mangan) contribuie la nuantele de maro si rosu. Cu cat solul este mai bogat in materie organica, cu atat este mai inchis si mai fertil.\n\n**Pentru copii:** Pamantul e maro pentru ca are in el resturi de plante si frunze care s-au descompus - ca o supa de legume pentru plante!\n\n**Pentru adulti:** Culoarea solului variaza: cernoziomul (solul negru din Romania) este foarte fertil, solurile rosii contin mult oxid de fier, iar solurile galbene contin hidroxizi de fier. Exista peste 20.000 de tipuri de sol in lume."
+    },
+    {
+      "id": 32,
+      "question": "Cum functioneaza o lentila de ochelari?",
+      "category": "Tehnologie",
+      "answer": "Lentilele de ochelari curbeaza lumina pentru a corecta modul in care ochiul tau focalizeaza. Daca esti miop (vezi bine aproape), lentila divergenta imprastie putin lumina inainte sa ajunga la ochi. Daca esti hipermetrop (vezi bine departe), lentila convergenta strange lumina mai mult. Lentila redirecteaza razele de lumina exact pe retina ta, unde ar trebui sa cada pentru o imagine clara.\n\n**Pentru copii:** Ochelarii sunt ca niste mici ajutoare care spun luminii exact pe unde sa mearga ca sa vezi clar!\n\n**Pentru adulti:** Puterea lentilelor se masoara in dioptrii. O lentila de +1 dioptrie focalizeaza lumina la 1 metru distanta. Benjamin Franklin a inventat ochelarii bifocali in 1784."
+    },
+    {
+      "id": 33,
+      "question": "Cum functioneaza un microfon?",
+      "category": "Tehnologie",
+      "answer": "Un microfon transforma sunetul in electricitate. Cand vorbesti, undele sonore lovesc o membrana subtire din microfon care vibreaza. Aceste vibratii misca o bobina in jurul unui magnet, generand un semnal electric care calatoreste prin cablu pana la difuzor. Acolo, procesul se inverseaza: electricitatea devine din nou sunet.\n\n**Pentru copii:** Microfonul e ca o ureche care asculta sunetul si il transforma in mesaj pe care calculatorul il poate intelege!\n\n**Pentru adulti:** Exista mai multe tipuri: microfoane dinamice (bobina in camp magnetic), cu condensator (variatie de capacitate) si piezoelectrice. Inventatorul Alexander Graham Bell a creat primul microfon functional in 1876."
+    },
+    {
+      "id": 34,
+      "question": "De ce ne este sete?",
+      "category": "Corp Uman",
+      "answer": "Setea este semnalul tau de alarma ca organismul are nevoie de apa. Corpul uman este format aproximativ 60% apa. Cand pierzi apa prin transpiratie, respiratie sau urina, creierul detecteaza ca sangele devine mai concentrat si saliva scade. Receptorii speciali din gura si gat trimit semnale catre hipotalamus (centrul setei din creier) care iti spune: 'Bea apa acum!'\n\n**Pentru copii:** Corpul tau e ca o gradina care trebuie udata - cand simti sete, e ca si cum florile iti spun 'da-ne apa!'.\n\n**Pentru adulti:** Hipotalamusul contine osmoreceptori care monitorizeaza concentratia sangelui. O pierdere de doar 1-2% din apa corporala activeaza setea. Deshidratarea severa (peste 10%) poate fi fatala."
+    },
+    {
+      "id": 35,
+      "question": "Cum functioneaza o oglinda?",
+      "category": "Tehnologie",
+      "answer": "O oglinda este o bucata de sticla cu un strat subtire de metal (aluminiu sau argint) pe spate. Suprafata metalica este atat de neteda incat reflecta lumina intr-o singura directie, pastrand unghiul la care lumina o loveste. Cifrele, literele si textul sunt afisate invers in oglinda pentru ca lumina care vine din fata ta se intoarce inapoi catre tine.\n\n**Pentru copii:** Oglinda e ca o apa linistita care iti trimite inapoi propria ta imagine!\n\n**Pentru adulti:** Oglinzile moderne se fac prin depunere chimica sau in vid a unui strat metalic (argint sau aluminiu) pe sticla. Oglinzile concave/convexe distorsioneaza imaginea si sunt folosite in telescoape si oglinzi retrovizoare. Cele mai vechi oglinzi (obsidian, 6000 i.Hr.) erau din piatra vulcanica lustruita."
+    },
+    {
+      "id": 36,
+      "question": "De ce ne creste temperatura cand suntem bolnavi?",
+      "category": "Corp Uman",
+      "answer": "Febra este un mecanism de aparare al corpului. Cand virusii sau bacteriile invadeaza organismul, sistemul imunitar elibereaza substante numite pirogeni care 'reseteaza' termostatul creierului la o temperatura mai ridicata. Corpul tau devine mai cald pentru ca majoritatea microbilor nu pot supravietui la temperaturi peste 38-39°C. In plus, celulele imunitare lucreaza mai eficient la temperaturi ridicate.\n\n**Pentru copii:** Febra e ca un cuptor in care corpul tau 'gate' virusii rai ca sa scape de ei!\n\n**Pentru adulti:** Temperatura normala a corpului este 36.5-37.5°C. Febra moderata (sub 39°C) este benefica si nu trebuie coborata neaparat. Febra foarte mare (peste 41°C) poate fi periculoasa. Hipotalamusul posterior regleaza temperatura corporala ca un termostat."
+    },
+    {
+      "id": 37,
+      "question": "Cum au aparut culorile la televizor?",
+      "category": "Tehnologie",
+      "answer": "Televizoarele creeaza toate culorile combinand doar trei culori de baza: rosu, verde si albastru (RGB). Fiecare pixel de pe ecran este format din trei sub-pixeli - unul rosu, unul verde si unul albastru - care lumineaza la intensitati diferite. Prin combinarea acestor trei culori in diverse proportii, se pot crea milioane de nuante. La televizoarele vechi, un tun de electroni 'vopsea' pixelii, iar la cele moderne, LED-uri sau OLED-uri emit lumina direct.\n\n**Pentru copii:** Ecranul TV e ca o pictura facuta din punctulete rosii, verzi si albastre care se amesteca in ochii tai!\n\n**Pentru adulti:** Sistemul RGB aditiv este standardul pentru ecrane. Fiecare culoare este reprezentata pe 8 biti (0-255), rezultand 16,7 milioane de culori. Televizoarele color au fost comercializate incepand cu 1954 (RCA CT-100)."
+    },
+    {
+      "id": 38,
+      "question": "De ce cad frunzele toamna?",
+      "category": "Natura si Univers",
+      "answer": "Frunzele cad toamna pentru ca pomii se pregatesc de iarna. Zilele mai scurte si temperaturile mai scazute semnaleaza copacului ca e timpul sa intre in 'hibernare'. Clorofila (care da culoarea verde frunzelor) se descompune, iar culorile ascunse (galben, portocaliu, rosu) devin vizibile. Copacul creeaza un strat subtire de celule la baza frunzei care taie aportul de apa si nutrienti, iar frunza cade usor.\n\n**Pentru copii:** Copacii isi dau jos haina de vara si isi pun una de iarna - frunzele vechi cad pentru a face loc altora noi primavara!\n\n**Pentru adulti:** Acest proces se numeste abscizie. Stratul de separare (abscission zone) contine enzime care dizolva peretii celulari. Caderea frunzelor este o adaptare pentru a reduce pierderea de apa prin transpiratie in timpul iernii."
+    },
+    {
+      "id": 39,
+      "question": "Cum functioneaza un angrenaj?",
+      "category": "Tehnologie",
+      "answer": "Un angrenaj (sau roti dintate) este un sistem de roti cu dinti care se cupleaza intre ele pentru a transmite miscarea si forta. Cand o roata dintata se invarte, dintii ei imping dintii altei roti, facand-o sa se invarta si ea. Angrenajele pot mari sau micsora viteza si forta: o roata mica invarte una mare mai incet, dar cu mai multa putere, si invers.\n\n**Pentru copii:** E ca un carusel cu dinti care se prind unul de altul si se invart impreuna!\n\n**Pentru adulti:** Exista mai multe tipuri de angrenaje: drepte, elicoidale, conice, melc. Raportul de transmisie se calculeaza impartind numarul de dinti ai rotii conduse la numarul de dinti ai rotii conducatoare. Arhimede a descris primele angrenaje in secolul III i.Hr."
+    },
+    {
+      "id": 40,
+      "question": "De ce ne vine somn seara?",
+      "category": "Somn si Vis",
+      "answer": "Somnul de seara este controlat de ceasul tau biologic intern (ritmul circadian) si de o substanta numita melatonina. Cand se intuneca, creierul tau primeste semnalul ca e noapte si incepe sa produca melatonina, care te face sa simti somn. Lumina albastra de la telefoane si calculatoare poate pacali creierul sa creada ca e inca zi, suprimand melatonina si intarziind somnul.\n\n**Pentru copii:** Creierul tau are un ceas care stie cand e timpul de culcare si trimite un mesager (melatonina) care te face sa casceti!\n\n**Pentru adulti:** Ritmul circadian este ciclul natural de 24 de ore al corpului. Melatonina este produsa de glanda pineala. Expunerea la lumina albastra seara poate suprima productia de melatonina cu pana la 50%. Dr. Nathaniel Kleitman a descoperit ciclurile somn-veghe in anii 1950."
+    },
+    {
+      "id": 41,
+      "question": "Cum functioneaza wifi-ul?",
+      "category": "Tehnologie",
+      "answer": "WiFi-ul foloseste unde radio pentru a transmite date intre dispozitive. Routerul tau primeste internetul printr-un cablu, apoi il transforma in semnale radio pe frecvente de 2.4 GHz sau 5 GHz. Laptopul, telefonul sau tableta au un adaptor WiFi care primeste aceste unde radio si le transforma inapoi in date digitale. E ca un walkie-talkie, dar de milioane de ori mai rapid!\n\n**Pentru copii:** WiFi-ul e ca o lumina invizibila care aduce internetul la telefonul tau prin aer!\n\n**Pentru adulti:** WiFi functioneaza pe standardul IEEE 802.11. Vitezele variaza de la 11 Mbps (802.11b) pana la 9.6 Gbps (WiFi 6). Semnalul scade cu distanta si este blocat de pereti grosi de beton. Frecventa de 5 GHz este mai rapida dar acopera o distanta mai mica decat 2.4 GHz."
+    },
+    {
+      "id": 42,
+      "question": "De ce ne plac dulciurile?",
+      "category": "Corp Uman",
+      "answer": "Ne plac dulciurile pentru ca gustul dulce este un semnal pentru creier ca ai gasit o sursa buna de energie. In preistorie, fructele coapte si mierea erau surse sigure de calorii si vitamine. Creierul nostru a evoluat sa asocieze dulcele cu supravietuirea, eliberand dopamina (hormonul fericirii) cand mancam zahar. Din pacate, zaharul procesat de azi este mult mai concentrat decat orice a intalnit vreodata corpul uman.\n\n**Pentru copii:** Limba ta are 'magicieni' care spun creierului 'Mmm, asta e bun si iti da energie!' cand gusti ceva dulce!\n\n**Pentru adulti:** Receptorii gustativi pentru dulce (T1R2/T1R3) sunt cei mai vechi din evolutie. Consumul mediu de zahar pe persoana a crescut de la 2 kg/an in 1700 la peste 30 kg/an in prezent. OMS recomanda maximum 25g zahar adaugat pe zi."
+    },
+    {
+      "id": 43,
+      "question": "Cum se formeaza un curcubeu?",
+      "category": "Natura si Univers",
+      "answer": "Curcubeul apare cand lumina soarelui trece prin picaturi de apa din atmosfera (dupa ploaie sau langa o cascada). Lumina alba a soarelui este de fapt un amestec de toate culorile. Cand lumina intra intr-o picatura de apa, se refracta (se indoaie), se reflecta pe peretele din spate al picaturii si iese inapoi, despartindu-se in culorile componente: rosu, portocaliu, galben, verde, albastru, indigo si violet.\n\n**Pentru copii:** Curcubeul e ca o bentita cu panglici colorate pe care soarele o leaga de nori dupa ploaie!\n\n**Pentru adulti:** Fiecare culoare are o lungime de unda diferita: rosu (~700nm) se refracta cel mai putin, violet (~400nm) cel mai mult. Un curcubeu adevarat este intotdeauna un cerc complet, dar noi vedem doar jumatatea de sus. Isaac Newton a demonstrat compozitia luminii albe in 1666 cu o prisma de sticla."
+    },
+    {
+      "id": 44,
+      "question": "Cum functioneaza o cheie in yala?",
+      "category": "Tehnologie",
+      "answer": "O yala contine niste pini de diferite lungimi, asezati in linie. Cand introduci cheia potrivita, crestatura ei impinge pinii exact la nivelul potrivit, aliniindu-i. Aceasta permite cilindrului sa se roteasca si sa descuie usa. Daca incerci cu o cheie gresita, pinii nu se aliniaza si cilindrul ramane blocat.\n\n**Pentru copii:** Cheia e ca o mana care strange manerul exact la locul potrivit pentru a deschide usa!\n\n**Pentru adulti:** Sistemele moderne includ pini dublu, magneti si electronica. Primele yale (Linus Yale Sr., 1848) aveau 5 pini. O yala standard poate avea intre 10.000 si 100.000 de combinatii unice. Yalele electronice moderne pot depasi 10 miliarde de combinatii."
+    },
+    {
+      "id": 45,
+      "question": "De ce ne este frica de intuneric?",
+      "category": "Corp Uman",
+      "answer": "Frica de intuneric este un mecanism de supravietuire mostenit de la stramosii nostri. In lipsa luminii, nu puteai vedea pericolele (animale salbatice, prapastii). Creierul tau, neputand verifica vizual mediul, intra in stare de alerta maxima. Aceasta frica este normala la copii (dezvolta constiinta pericolului) si poate persista la adulti ca anxietate generalizata sau tulburare specifica (nictofobie).\n\n**Pentru copii:** Intunericul e ca o patura care ascunde jucariile - creierul tau isi face griji ca nu vede ce e in jur, dar de fapt totul e la fel!\n\n**Pentru adulti:** Nictofobia (frica patologica de noapte) afecteaza aproximativ 4% din populatie. Este mai frecventa la copii si tinde sa scada cu varsta. Terapia prin expunere treptata si lampile de veghe pot ajuta. Sigmund Freud considera frica de intuneric o manifestare a anxietatii de separare."
+    },
+    {
+      "id": 46,
+      "question": "Cum functioneaza GPS-ul?",
+      "category": "Tehnologie",
+      "answer": "GPS-ul foloseste 31 de sateliti care orbiteaza Pamantul la 20.000 km altitudine. Fiecare satelit trimite continuu semnale cu pozitia si ora exacta. Telefonul sau GPS-ul tau primeste semnale de la cel putin 4 sateliti simultan. Calculand cat timp a durat fiecare semnal sa ajunga la tine (stiind ca undele radio calatoresc cu viteza luminii), dispozitivul determina exact unde te afli - cu o precizie de cativa metri.\n\n**Pentru copii:** GPS-ul e ca niste prieteni sus pe cer care iti spun exact unde esti, masurand cat de repede ajunge vocea lor la tine!\n\n**Pentru adulti:** Sistemul GPS (Global Positioning System) a fost creat de USAF si a devenit operational in 1995. Precizia civila este de ~5-10m, iar militara de ~30cm. Exista si alte sisteme: Galileo (UE), GLONASS (Rusia), BeiDou (China). Ceasurile atomice din sateliti sunt corectate relativistic (dilatarea timpului)."
+    },
+    {
+      "id": 47,
+      "question": "De ce sunt frunzele late?",
+      "category": "Natura si Univers",
+      "answer": "Frunzele late maximizeaza suprafata expusa la soare pentru fotosinteza - procesul prin care plantele transforma lumina in hrana. O frunza lata poate prinde mai multa lumina solara decat una ingusta. In plus, frunzele au mici orificii (stomate) pe partea inferioara care permit schimbul de gaze: dioxidul de carbon intra, oxigenul si vaporii de apa ies.\n\n**Pentru copii:** Frunzele late sunt ca niste farfurii care prind lumina soarelui pentru a face mancare pentru pom!\n\n**Pentru adulti:** Forma frunzei este o adaptare la mediu. Frunzele late sunt tipice pentru climatele umede si umbroase. In deserturi sau climate alpine, frunzele sunt mici sau transformate in spini pentru a reduce pierderea de apa prin transpirare. Suprafata totala a frunzelor unui copac matur poate ajunge la sute de metri patrati."
+    },
+    {
+      "id": 48,
+      "question": "Cum functioneaza un lift?",
+      "category": "Tehnologie",
+      "answer": "Un lift foloseste un motor electric puternic care invarte un scripete la care sunt atasate cabluri de otel. Cablurile sustin cabina liftului pe de-o parte si un contragreutate pe cealalta parte. Contragreutatea cantareste cat cabina plus jumatate din capacitatea maxima, ceea ce face sistemul extrem de eficient - motorul trebuie sa miste doar diferenta de greutate. Lifturile moderne au si sisteme de franare de siguranta si senzori.\n\n**Pentru copii:** Liftul e ca o cutie magica trasă de franghii groase care te duce sus sau jos!\n\n**Pentru adulti:** Primele lifturi (Elisha Otis, 1854) aveau un sistem de siguranta revolutionar care impiedica caderea cabinei daca cablul se rupe. Lifturile moderne folosesc cabluri de otel de 6-8 ori mai rezistente decat incarcarea maxima. Liftul fara cabluri (ThyssenKrupp MULTI) foloseste levitatie magnetica ca trenurile."
+    },
+    {
+      "id": 49,
+      "question": "Cum functioneaza o baterie?",
+      "category": "Tehnologie",
+      "answer": "O baterie stocheaza energie chimica si o transforma in electricitate. In interior are doi electrozi (unul pozitiv, unul negativ) si un electrolit (un lichid sau gel special). Cand conectezi bateria la un aparat, electronii pornesc de la electrodul negativ, trec prin aparat (il alimenteaza) si ajung la electrodul pozitiv. Reactiile chimice din interior mentin acest flux pana cand materialele se consuma.\n\n**Pentru copii:** Bateria e ca o cutie cu furnici care alearga intr-o directie catre jucaria ta si o fac sa mearga!\n\n**Pentru adulti:** Alessandro Volta a inventat prima baterie (pila voltaica) in 1800. Bateriile moderne Li-ion pot stoca de 10 ori mai multa energie decat bateriile plumb-acid pentru aceeasi greutate. O baterie alcalina AAA contine suficienta energie pentru a alimenta un LED timp de 24 de ore continuu."
+    },
+    {
+      "id": 50,
+      "question": "De ce suntem diferiti unii de altii?",
+      "category": "Corp Uman",
+      "answer": "Suntem diferiti din cauza combinatiei unice de gene mostenite de la parinti si a experientelor de viata. Fiecare persoana mosteneste 23 de cromozomi de la mama si 23 de la tata, rezultand 46 de cromozomi cu aproximativ 20.000 de gene. Combinatele posibile sunt atat de multe (miliarde de miliarde) incat fiecare om este unic. Chiar si gemenii identici au diferente subtile cauzate de experiente si mediu.\n\n**Pentru copii:** Fiecare om e ca un puzzle facut din piese de la mama si tata - si nu exista doua puzzle-uri la fel in toata lumea!\n\n**Pentru adulti:** ADN-ul uman contine aproximativ 3 miliarde de perechi de baze. Diferentele genetice dintre doi oameni sunt de doar 0.1% (3 milioane de perechi). Proiectul Genomului Uman (2003) a cartografiat intregul ADN uman. Factorii de mediu (epigenetica) influenteaza care gene sunt activate sau dezactivate."
+    },
+    {
+      "question": "** De ce simțim gustul metalic după ce lovim limba de o baterie?",
+      "answer": "**  \nGustul metalic pe care îl simți atunci când atingi cu limba bornele unei baterii (de 9V, de exemplu) este de fapt un „semnal electric interpretat greșit” de creierul tău.  \n\n**Explicație simplă cu analogie:**  \nImaginează-ți că limba ta este o antenă de radio, iar bateria este un post care emite semnale electrice. Când antena (limba) atinge postul (bateria), curentul electric trece prin papilele gustative și „păcălește” creierul să creadă că a auzit un gust metalic, deși nu există metal acolo. E ca și cum ai atinge un microfon cu degetul – nu auzi muzică, ci doar un zgomot electric.  \n\n**Explicație științifică:**  \nLimba noastră are receptori speciali pentru gust (dulce, sărat, acru, amar, umami). În plus, papilele gustative conțin și terminații nervoase care reacționează la stimuli mecanici, termici sau electrici. Când curentul electric trece prin limbă (datorită tensiunii joase a bateriei, de 9V), ionii din salivă (sodiu, potasiu, clor) sunt puși în mișcare, generând un câmp electric. Acest câmp stimulează direct nervul gustativ (nervul facial și glosofaringian) printr-un fenomen numit **electro-gustație**. Creierul interpretează acest semnal electric ca fiind un gust metalic sau acru, deoarece aceeași cale nervoasă este activată și de prezența ionilor metalici (de exemplu, când muști o lingură de metal).  \n\n**Curiozitate:**  \nAcest fenomen a fost descoperit în 1752 de Benjamin Franklin, care a testat cu limba un fir legat de un zmeu în timpul unei furtuni (da, a fost la fel de periculos pe cât pare!).  \n\n**Atenție:**  \nNu încerca acasă cu baterii mai mari de 9V sau cu limba udă – curentul poate fi dureros sau periculos!",
+      "category": "Corp Uman",
+      "id": 51,
+      "timestamp": "2026-05-06T19:50:46.444973"
+    }
+  ]
+}
